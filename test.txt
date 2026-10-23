@@ -1,1 +1,1 @@
-print("Текст из MAIN")
+print("Текст из TEST")
