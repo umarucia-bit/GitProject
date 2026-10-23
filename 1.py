@@ -5,3 +5,7 @@ a = int(input())
 
 print("Введите второе целое число")
 b = int(input())
+
+d = a + b
+
+print(d)
